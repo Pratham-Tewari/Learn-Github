@@ -1,4 +1,4 @@
 # Learn-Github
 Started to learn github
 <br />
-Author - Pratham
+Author - Pratham Tewari
